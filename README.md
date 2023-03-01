@@ -63,7 +63,6 @@
       alt="TypeScript"
       height="75"
   /></a>
-  
   <a href="https://github.com/" target="_blank"
     ><img
       style="margin: 18px"

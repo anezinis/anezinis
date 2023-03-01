@@ -7,7 +7,7 @@
 
 <br>
 
-* 👋 Hi, I’m Cherry and I am a Software Developer with an avid passion for creating problem-solving applications.
+* 👋 Hi, I’m Emmanuel Anezinis, AKA Cherry, and I am a Software Developer with an avid passion for creating problem-solving applications.
 
 * 💼 Currently working as a Freelancer Web Developer.
 

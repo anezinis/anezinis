@@ -7,9 +7,11 @@
 
 <br>
 
-- 👋 Hi, I’m Cherry and I am a Software Developer
+* 👋 Hi, I’m Cherry and I am a Software Developer with an avid passion for creating problem-solving applications.
 
-- 💼 Currently working as a Freelancer.
+* 💼 Currently working as a Freelancer Web Developer.
+
+
   
 
 - Reach me at manosanez@gmail.com

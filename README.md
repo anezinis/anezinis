@@ -14,8 +14,6 @@
 
   
 
-- Reach me at manosanez@gmail.com
-
 <br>
 
 ## 🛠️ Languages & Tools

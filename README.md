@@ -9,7 +9,7 @@
 
 * 👋 Hi, I’m Emmanuel Anezinis, AKA Cherry, and I am a Software Developer with an avid passion for creating problem-solving applications.
 
-* 💼 Currently working as Frontend Web Developer.
+* 💼 Currently working as Angular Developer.
 
 
   
